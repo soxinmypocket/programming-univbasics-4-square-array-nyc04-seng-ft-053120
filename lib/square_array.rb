@@ -4,4 +4,5 @@ def square_array(numbers)
     while i in numbers do
       puts i ** 2
     end
+    square_array(numbers) << i
 end
