@@ -5,8 +5,9 @@ def square_array(numbers)
     for i in numbers do
       i*i
     counter += 1
-    square_array(numbers)
     end
+    square_array(numbers)
+  end
 
     new_numbers = [9, 10, 16, 25]
     counter = 0
