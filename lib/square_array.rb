@@ -1,9 +1,8 @@
-def square_array(array)
-  numbers = [9, 10, 16, 25]
 
-  square_array(numbers)
+numbers = [1, 2, 3]
 
-  new_numbers = [9, 10, 16, 25]
+square_array(numbers)
 
-  square_array(new_numbers)
-end
+new_numbers = [9, 10, 16, 25]
+
+square_array(new_numbers)
