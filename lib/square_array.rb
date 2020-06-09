@@ -5,5 +5,5 @@ def square_array(numbers)
     while numbers[counter]
       i ** 2
     end
-    square_array(numbers) 
+    square_array(numbers)
 end
