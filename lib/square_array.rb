@@ -1,9 +1,10 @@
 
 def square_array(array)
   numbers = [1, 2, 3]
-    while i in numbers do
-    i * i
-
+  counter = 0
+    while counter < 3  do
+      numbers * numbers
+    counter += 1
   end
 
 end
