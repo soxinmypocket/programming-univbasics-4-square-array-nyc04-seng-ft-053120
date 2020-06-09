@@ -4,6 +4,4 @@ def square_array(array)
   for value in numbers do
     value * value
   end
-
-  end
 end
