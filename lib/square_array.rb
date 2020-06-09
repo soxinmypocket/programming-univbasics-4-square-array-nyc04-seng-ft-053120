@@ -1,10 +1,7 @@
 
 def square_array(numbers)
-  counter = 0
   numbers = [1, 2, 3]
-  
-    while numbers[counter]
-      puts numbers ** 2
-      counter += 1
+    while i in numbers do
+      puts i ** 2
     end
 end
