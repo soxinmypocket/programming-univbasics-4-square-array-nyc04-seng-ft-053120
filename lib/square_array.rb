@@ -7,4 +7,10 @@ def square_array(numbers)
     counter += 1
     end
 
+    new_numbers = [9, 10, 16, 25]
+    counter = 0
+      for j in new_numbers do
+        j*j
+        counter +=1
+      end
 end
