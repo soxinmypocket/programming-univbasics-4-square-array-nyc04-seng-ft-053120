@@ -4,7 +4,7 @@ def square_array(numbers)
   numbers = [1, 2, 3]
     while numbers[counter] do
       numbers * numbers
-    counter += 1
+      counter += 1
     end
     square_array(numbers)
 end
