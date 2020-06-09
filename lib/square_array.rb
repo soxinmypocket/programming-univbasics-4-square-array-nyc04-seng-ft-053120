@@ -5,5 +5,5 @@ def square_array(numbers)
     while counter < 3  do
     counter += 1
     end
-    square_array(numbers)
+    
 end
